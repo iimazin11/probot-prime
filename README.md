@@ -2,12 +2,12 @@
 <p>
   This Project Developed by node.js && discord.js <strong>v14</strong>
 </p>
-<h3>Language</h3>
+<h2>Language</h2>
 <p>
    <img alt="JS" src="https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
-<h3>How To Use</h3>
-<h5>1. Download the project</h5>
+<h2>How To Use</h2>
+1. Download the project
 <h5>2. Extract the project</h5>
 <h5>3. Type <strong>npm i</strong> in console, to download the packages</h5>
 <h5>5. Type <strong>node main.js</strong> in console to run the bot</h5>
