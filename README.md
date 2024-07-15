@@ -7,10 +7,10 @@
    <img alt="JS" src="https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 <h2>How To Use</h2>
-1. Download the project
-2. Extract the project
-3. Type <strong>npm i</strong> in console, to download the packages
-5. Type <strong>node main.js</strong> in console to run the bot
+1. Download the project<br>
+2. Extract the project<br>
+3. Type <strong>npm i</strong> in console, to download the packages<br>
+5. Type <strong>node main.js</strong> in console to run the bot<br>
 
 <h2>Support</h2>
 <p>
