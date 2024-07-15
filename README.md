@@ -8,9 +8,9 @@
 </p>
 <h2>How To Use</h2>
 1. Download the project
-<h5>2. Extract the project</h5>
-<h5>3. Type <strong>npm i</strong> in console, to download the packages</h5>
-<h5>5. Type <strong>node main.js</strong> in console to run the bot</h5>
+2. Extract the project
+3. Type <strong>npm i</strong> in console, to download the packages
+5. Type <strong>node main.js</strong> in console to run the bot
 
 <h2>Support</h2>
 <p>
